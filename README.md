@@ -8,5 +8,7 @@
 
 ## Запуск
 ```
+git clone https://github.com/KirillMikhailov442/ikm-2-python.git
+cd ikm-2-python
 python main.py
 ```
