@@ -14,7 +14,7 @@ class Engine:
         self.temp_count = 1
         self.expression = expression
 
-    def compile(self):
+    def compile(self) -> None:
         """
         Конвертирование выражения в постфиксной форме в формулировку из задания
         """
