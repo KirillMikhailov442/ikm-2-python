@@ -31,7 +31,7 @@ class LinkedList:
         except Exception as ex:
             print(ex)
 
-    def pop(self) -> Optional[str]:
+    def pop(self) -> str:
         """
         Удаление элемента из начала списка
         """
